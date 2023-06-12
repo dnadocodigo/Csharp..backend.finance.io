@@ -1,0 +1,12 @@
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\bin\Debug\net7.0\Helper.deps.json
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\bin\Debug\net7.0\Helper.dll
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\bin\Debug\net7.0\Helper.pdb
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\obj\Debug\net7.0\Helper.csproj.AssemblyReference.cache
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\obj\Debug\net7.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\obj\Debug\net7.0\Helper.AssemblyInfoInputs.cache
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\obj\Debug\net7.0\Helper.AssemblyInfo.cs
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\obj\Debug\net7.0\Helper.csproj.CoreCompileInputs.cache
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\obj\Debug\net7.0\Helper.dll
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\obj\Debug\net7.0\refint\Helper.dll
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\obj\Debug\net7.0\Helper.pdb
+D:\Documents\Desenvolvimento\PROJETOS\ANGULAR\BACKENDS\Finance\src\3-Infrastructures\3.2-Infra.Crosscuttings\Helper\obj\Debug\net7.0\ref\Helper.dll
