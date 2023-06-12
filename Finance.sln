@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{493455EA-FAAE-41AB-B34A-1FAF414046F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Service", "1-Service", "{C33ACEE1-09CA-468D-870F-482F94E8F8CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finance.Web.Api", "src\1-Service\Finance.Web.Api\Finance.Web.Api.csproj", "{B2BA7125-FE85-4B50-81D0-07E762F7320D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +16,15 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BA7125-FE85-4B50-81D0-07E762F7320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BA7125-FE85-4B50-81D0-07E762F7320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BA7125-FE85-4B50-81D0-07E762F7320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BA7125-FE85-4B50-81D0-07E762F7320D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C33ACEE1-09CA-468D-870F-482F94E8F8CD} = {493455EA-FAAE-41AB-B34A-1FAF414046F4}
+		{B2BA7125-FE85-4B50-81D0-07E762F7320D} = {C33ACEE1-09CA-468D-870F-482F94E8F8CD}
 	EndGlobalSection
 EndGlobal
